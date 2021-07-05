@@ -1,0 +1,14 @@
+.mycont{
+
+    position: relative;
+
+}
+
+.mainbox{
+
+    position: absolute;
+    
+    left: 35%;
+    margin-top: 50px;
+    
+}

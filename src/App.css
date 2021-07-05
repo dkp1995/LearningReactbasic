@@ -1,0 +1,21 @@
+
+
+li a :hover {
+
+  text-decoration: none;
+}
+
+
+
+
+.searchbar{
+
+  display: flex;
+}
+
+
+.row {
+
+  display: inline;
+
+}

@@ -1,0 +1,77 @@
+
+
+  p {
+    font-family: verdana;
+    font-size: 20px;
+ 
+  }
+
+
+  body{
+
+    background-color: lightgray;
+
+  
+    background-position: right top;
+    background-repeat: no-repeat;
+    background-attachment: fixed;
+    text-align: center;
+    margin: 50px;
+}
+
+
+  h1{
+
+    border: outset Tomato;
+    border-width: 25px 10px 4px 35px;
+    background-color: rgba(0, 128, 0, 0.2);
+
+    outline : 5px solid yellow;;
+    outline-offset: 2px;
+
+    
+  }
+
+  #verticalalign{
+
+    vertical-align: super;
+  }
+
+
+  a:link {
+    color: red !important;
+  }
+  
+ 
+  a:visited {
+    color: green !important;
+  }
+  
+
+  a:hover {
+    color: hotpink !important;
+  }
+  
+ 
+  a:active {
+    color: blue;
+  }
+
+
+
+  input{
+
+    border:none;
+    outline:none;
+    padding-left: 25px !important;
+    padding-right: 25px !important;
+    padding: 5px 5px 5px 5px;
+    border-radius: 5px 5px 5px 5px ;
+    
+ }
+
+ input:focus{
+
+    background-color: darkcyan;
+ }
+  
